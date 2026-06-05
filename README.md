@@ -23,7 +23,7 @@ The analysis also includes a simplified efficiency frontier framework for evalua
 - `30044055_Edward_Osaghae_MS4T01_Presentation.pptx`  
   A short presentation summarising the research problem, methods, and findings.
 
-  The project is currently getting improved over time, with updates coming Tomorrow.
+  The project is currently getting improved over time, with updates coming Tomorrow the 6th.
 
 ## Author
 
